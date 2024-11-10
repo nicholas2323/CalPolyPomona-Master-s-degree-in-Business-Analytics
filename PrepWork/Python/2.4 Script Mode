@@ -1,0 +1,7 @@
+>>> miles = 26.2
+>>> miles * 1.61
+42.182
+
+miles = 26.2
+print(miles * 1.61)
+
