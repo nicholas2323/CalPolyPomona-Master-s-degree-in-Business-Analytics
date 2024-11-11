@@ -1,0 +1,8 @@
+'chinese'-'food' 'eggs'/'easy' 'third'*'a charm'
+But there are two exceptions, + and *.
+
+>>> first = 'throat'
+>>> second = 'warbler'
+>>> first + second
+
+
