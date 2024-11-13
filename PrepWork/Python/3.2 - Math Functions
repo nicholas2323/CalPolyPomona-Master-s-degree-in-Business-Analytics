@@ -1,0 +1,18 @@
+>>> import math
+
+>>> math
+<module 'math' (built-in)>
+
+>>> ratio = signal_power / noise_power
+>>> decibels = 10 * math.log10(ratio)
+
+>>> radians = 0.7
+>>> height = math.sin(radians)
+
+>>> degrees = 45
+>>> radians = degrees / 180.0 * math.pi
+>>> math.sin(radians)
+0.707106781187
+
+>>> math.sqrt(2) / 2.0
+0.707106781187
