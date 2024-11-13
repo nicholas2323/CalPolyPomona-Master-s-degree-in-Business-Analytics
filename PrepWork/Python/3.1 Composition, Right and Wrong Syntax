@@ -1,0 +1,3 @@
+>>> minutes = hours * 60 # right
+>>> hours * 60 = minutes # wrong!
+SyntaxError: can't assign to operator

@@ -1,0 +1,1 @@
+x = math.exp(math.log(x+1))
